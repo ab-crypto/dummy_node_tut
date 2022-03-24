@@ -1,0 +1,14 @@
+{
+  "name": "node_tut_yt_again",
+  "version": "1.0.0",
+  "description": "node tutorial again more comprehension",
+  "main": "2-name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhronil",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
